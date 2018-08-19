@@ -1,1 +1,4 @@
-console.log('This is a minion.');
+
+$(function() {
+    console.log('This is a minion.');
+});
